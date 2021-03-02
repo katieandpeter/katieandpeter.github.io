@@ -13,6 +13,7 @@ title: Home
 ## Meta
 
 - [About Us](about)
+- [Change Logs](changelogs)
 - [Links](links)
 - [Search](https://duckduckgo.com/?q=site%3Akatieandpeter.com)
 
