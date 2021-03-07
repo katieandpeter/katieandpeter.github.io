@@ -19,6 +19,7 @@ title: Home
 
 ## Travels
 
+- [China](china)
 - [Log](travellog)
 - [Packing List](packlist)
 - [Germany](germany)
