@@ -1,7 +1,7 @@
 ---
 layout: page
 title: China
-permalink: /China/
+permalink: /china/
 ---
 
 This page is for recording various notes, learnings, and recommendations for our travels throughout China.
