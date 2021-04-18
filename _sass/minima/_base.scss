@@ -15,8 +15,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
+  @include color-assign(color, primary-500);
+	@include color-assign(background-color, background);
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -109,14 +109,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  @include color-assign(color, brand-color);
 
   &:hover {
-    color: $grey-color;
+		@include color-assign(color, primary-500);
+		@include color-assign(border-color, primary-500);
   }
 
   .social-media-list &:hover {
@@ -133,8 +130,9 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
+  @include color-assign(color, grey-color);
   border-left: 4px solid $grey-color-light;
+	@include color-assign(border-color, grey-color-light);
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
@@ -153,9 +151,10 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid;
   border-radius: 3px;
-  background-color: #eef;
+	@include color-assign(border-color, grey-color-light);
+  @include color-assign(background-color, rouge);
 }
 
 code {

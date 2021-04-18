@@ -2,7 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid;
+	@include color-assign(border-color, primary-500);
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -25,7 +26,7 @@
 
   &,
   &:visited {
-		color: $text-color;
+		@include color-assign(color, primary-500);
 		text-decoration: none;
 	}
 
