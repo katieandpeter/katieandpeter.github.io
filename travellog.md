@@ -6,6 +6,18 @@ permalink: /travellog/
 
 ## 2021
 
+### Buena Vista, CO
+
+- [OpenStreetMap](https://www.openstreetmap.org/way/161510060)
+- Date: Apr 29 - May 2
+- Lodging: Surf Hotel
+
+### Denver, CO
+
+- [OpenStreetMap](https://www.openstreetmap.org/relation/253750)
+- Date: Apr 25 - Apr 29
+- Lodging: The Crawford Hotel / Hilton Garden Inn (Union Station)
+
 ### Jackson, WY
 
 - [OpenStreetMap](https://www.openstreetmap.org/relation/252274)
