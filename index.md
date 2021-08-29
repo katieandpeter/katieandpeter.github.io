@@ -10,12 +10,21 @@ title: Home
 - [Bars & Taverns](cincybars)
 - [Festivals](cincyfestivals)
 
+## Guides
+
+- [Color Classification for Life](colorclass)
+- [Note-taking](notetaking)
+
 ## Meta
 
 - [About Us](about)
 - [Change Logs](changelogs)
 - [Links](links)
 - [Search](https://duckduckgo.com/?q=site%3Akatieandpeter.com)
+
+## Recipes
+
+- [Cocktails](cocktails)
 
 ## Travels
 
