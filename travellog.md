@@ -6,6 +6,18 @@ permalink: /travellog/
 
 ## 2021
 
+### Scottsdale, Arizona 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/relation/110826)
+- Date: January 26 - January 29
+- Lodging: Mountain Shadows Resort
+
+### Flagstaff, Arizona 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/node/153458138)
+- Date: December 29 - January 2
+- Lodging: DoubleTree By Hilton Flagstaff
+
 ### Chattanooga, Tennessee 🇺🇸
 
 - [OpenStreetMap](https://www.openstreetmap.org/node/153458138)
