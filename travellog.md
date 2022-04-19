@@ -6,6 +6,48 @@ permalink: /travellog/
 
 ## 2022
 
+### Baltimore, Maryland 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/node/671113)
+- Date: April 7 - April 10
+- Lodging: AirBnB
+
+### Santa Cruz, California 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/node/1616078487)
+- Date: March 28 - March 31
+- Lodging: Hotel Paradox
+
+### Forestville, California 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/way/33259252)
+- Date: March 25 - March 28
+- Lodging: Family House
+
+### San Francisco, California 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/relation/111968)
+- Date: March 23 - March 25
+- Lodging: Hotel Adagio
+
+### Fort Collins, Colorado 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/node/60327890)
+- Date: February 10 - February 12
+- Lodging: Friend's House
+
+### Denver, Colorado 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/relation/1411339)
+- Date: February 7 - February 10
+- Lodging: Renaissance Denver Downtown
+
+### Boulder, Colorado 🇺🇸
+
+- [OpenStreetMap](https://www.openstreetmap.org/node/151932773)
+- Date: February 5 - February 7
+- Lodging: Boulder Marriott
+
 ### Scottsdale, Arizona 🇺🇸
 
 - [OpenStreetMap](https://www.openstreetmap.org/relation/110826)
