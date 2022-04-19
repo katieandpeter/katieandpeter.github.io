@@ -4,13 +4,15 @@ title: Travel Log
 permalink: /travellog/
 ---
 
-## 2021
+## 2022
 
 ### Scottsdale, Arizona 🇺🇸
 
 - [OpenStreetMap](https://www.openstreetmap.org/relation/110826)
 - Date: January 26 - January 29
 - Lodging: Mountain Shadows Resort
+
+## 2021
 
 ### Flagstaff, Arizona 🇺🇸
 
