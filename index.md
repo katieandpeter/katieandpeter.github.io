@@ -1,40 +1,26 @@
 ---
 layout: home
-title: Home
 ---
 
-👋 Welcome to Katie and Peter's world! Below is a compendium of random notes, logs, and guides that serve as a knowledge base for us and hopefully might offer some value to you as well. Happy surfing!
+![A Photo of Us]({{ "/assets/img/us.jpg" | relative_url }})
 
-## Cincinnati
+We are a married couple based in [Cincinnati, Ohio, USA][cincy] and have lived in the
+old German immigrant neighborhood of [Over-the-Rhine][otr] for over 10 years. We love
+to travel, attend music and cultural festivals, organize our lives together, and
+sit at our local bar and strike up conversations with neighbors and fellow humans.
 
-- [Bars & Taverns](cincybars)
-- [Festivals](cincyfestivals)
+Katie has a history in the education sector, having taught English to kids, taken
+on principalship, and collaborated with a wide range of schools to develop their
+curriculum. She is now working with [Generation Schools Network][gsn] as an
+accountability consultant.
 
-## Guides
+Peter has long been a technology fiend and after studying Information Systems at the
+[University of Cincinnati][uc], took up various roles in IT support, server admin,
+and web application development. He now works with [Benchmark Gensuite][benchmark]
+as a Senior Product Development & Delivery Director.
 
-- [Color Classification for Life](colorclass)
-- [Note-taking](notetaking)
-
-## Meta
-
-- [About Us](about)
-- [Change Logs](changelogs)
-- [Links](links)
-- [Search](https://duckduckgo.com/?q=site%3Akatieandpeter.com)
-
-## Recipes
-
-- [Cocktails](cocktails)
-
-## Travels
-
-- [China](china)
-- [Log](travellog)
-- [Packing List](packlist)
-- [Germany](germany)
-- [UK](unitedkingdom)
-- [US West](uswest)
-
-## Wedding
-
-- [Photos](https://katieandpeter.wedding)
+[cincy]: http://en.wikipedia.org/wiki/Cincinnati
+[otr]: https://en.wikipedia.org/wiki/Over-the-Rhine
+[gsn]: https://www.generationschools.org
+[uc]: https://en.wikipedia.org/wiki/University_of_Cincinnati
+[benchmark]: https://benchmarkgensuite.com
