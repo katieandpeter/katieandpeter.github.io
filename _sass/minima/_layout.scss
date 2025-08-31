@@ -2,36 +2,63 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid;
-	@include color-assign(border-color, primary-500);
-  min-height: $spacing-unit * 1.865;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
+	background: linear-gradient(90deg, #232526 0%, #414345 100%);
+	box-shadow: 0 4px 24px 0 rgba(0,0,0,0.10);
+	min-height: $spacing-unit * 2.5;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 $spacing-unit;
+	position: relative;
+	z-index: 20;
 }
 
 .site-title {
-  @include relative-font-size(2.25);
-  font-weight: 900;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-	float: left;
+	@include relative-font-size(2.8);
+	font-weight: 900;
+	letter-spacing: -1px;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	gap: 0.7em;
 	text-transform: uppercase;
+	background: linear-gradient(90deg, #fff 60%, #b2fefa 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
 
-	&:first-child::before {
-		@include relative-font-size(2.75);
-		content: '❦ ';
+	&::before {
+		content: '';
+		display: inline-block;
+		width: 2.2em;
+		height: 2.2em;
+		margin-right: 0.4em;
+		background: url('data:image/svg+xml;utf8,<svg fill="none" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><circle cx="24" cy="24" r="20" fill="%23b2fefa"/><text x="24" y="30" font-size="18" text-anchor="middle" fill="%234f8cff" font-family="Arial" font-weight="bold">K|P</text></svg>') no-repeat center/contain;
+		filter: drop-shadow(0 2px 8px rgba(79,140,255,0.10));
 	}
 
-  &,
-  &:visited {
-		@include color-assign(color, primary-500);
+	&,
+	&:visited {
+		color: inherit;
 		text-decoration: none;
+		transition: text-shadow 0.2s;
 	}
 
 	&:hover {
-		text-decoration: underline;
+		text-shadow: 0 4px 16px rgba(79,140,255,0.25);
+		text-decoration: none;
+	}
+
+	// Make title a bit bigger on mobile
+	@include media-query($on-palm) {
+		@include relative-font-size(1.8);
+		gap: 0.5em;
+
+		&::before {
+			width: 1.7em;
+			height: 1.7em;
+			margin-right: 0.25em;
+		}
 	}
 }
 
@@ -223,7 +250,7 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .post-title {
@@ -232,7 +259,7 @@
   line-height: 1;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+    @include relative-font-size(1.8);
   }
 }
 
