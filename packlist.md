@@ -14,6 +14,7 @@ permalink: /packlist/
   - **Headlamp/small flashlight** to light your way if you need to use the restrooms after lights out
   - **General hiking attire** Things like a rain jacket 'just in case,' a warmer layer for hanging out at the huts at night- since we're at higher altitude it can get cold! Change of socks is always nice to have just in case.
   - **Toiletries** - both huts have washrooms with running water, however neither offer showers. You can bring wipes if you are so inclined!
+  - **Water bladder or bottle** - You can refill with clean water along the way typically so it doesn’t need to be large.
 
 ## Optional items
 
